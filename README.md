@@ -53,3 +53,4 @@ Filter
 .div(ng-show="{{ 'self_service_dashboard_ignore_revenue' | featureIsOff }}")
   | feature is Off
 ```
+
