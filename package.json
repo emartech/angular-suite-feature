@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/emartech/angular-suite-feature.git"
+    "url": "git+https://github.com/emartech/angular-suite-feature.git"
   },
   "author": "Viktor Somodi <viktor.somodi@emarsys.com>",
   "license": "ISC",
@@ -38,7 +38,7 @@
     "mocha": "^2.3.4",
     "semantic-release": "^4.3.5"
   },
-  "homepage": "https://github.com/emartech/angular-suite-flipper",
+  "homepage": "https://github.com/emartech/angular-suite-feature",
   "dependencies": {
     "ng1-decorators": "2.0.0",
     "suite-flipper-js": "1.0.5"
