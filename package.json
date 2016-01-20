@@ -1,6 +1,5 @@
 {
   "name": "angular-suite-feature",
-  "version": "2.0.3",
   "description": "Angular Suite Feature",
   "main": "dist/index.js",
   "scripts": {
